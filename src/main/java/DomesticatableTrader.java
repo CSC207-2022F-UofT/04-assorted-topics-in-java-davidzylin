@@ -42,5 +42,4 @@ class DomesticatableTrader extends Trader<Domesticatable> {
         return super_price * 2;
 
     }
-
 }
